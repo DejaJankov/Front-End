@@ -1,2 +1,2 @@
 # Front-End
-Just want to become a front-end developer 
+I just want to become a front-end developer.
